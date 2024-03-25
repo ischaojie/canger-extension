@@ -49,7 +49,7 @@
     "@commitlint/config-conventional": "18.1.0",
     "@rollup/plugin-typescript": "11.1.5",
     "@testing-library/react": "14.0.0",
-    "@types/chrome": "0.0.251",
+    "@types/chrome": "0.0.263",
     "@types/node": "20.8.10",
     "@types/react": "18.2.37",
     "@types/react-dom": "18.2.14",
